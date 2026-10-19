@@ -1,2 +1,2 @@
 # space-station
-A space station that has movable. 
+The Space Station Project is a 3D simulation of a space station created using three.js. It displays a space station built from 3D shapes, with rotation, animation, and camera controls to explore the scene. The project was developed using JavaScript, HTML, and Three.js. To run it, open the project folder in Visual Studio Code, open "index.html", and select "Open with Live Server". The project will open in a web browser where the 3D station can be viewed.
